@@ -1,6 +1,6 @@
 # **Prediction of the coordinates of the pixel which has a value of 255 in a 50x50 grayscale image where all other pixels have a value 0.**
 
-**Supervised Regression using CNN.**
+**Supervised Regression using CNN | Image Processing**
 
 # Requirements installation instruction:
 
