@@ -35,15 +35,19 @@ A training accuracy of '98.96%' and a validation accuracy of '99.17%' have been 
 
 The proximity in the values of both accuracies indicates that the model has not overfit on the training dataset and that it would perform well on the new data.
 
+![Alt text](https://github.com/shreyas121sinha/HotPixel_Prediction/blob/main/model%20training.png)
+
 **(5) Training Visualization:**
 This section displays the training progress of the model through a plot. The plot illustrates the training and the validation accuracies of the model over epochs. This visualization provides insight into the performance and the convergence of the model over time.
+
+![Alt text](https://github.com/shreyas121sinha/HotPixel_Prediction/blob/main/training%20visualiation.png)
 
 **(6) Model Prediction Evaluation:**
 In the following section, 10 examples from the validation dataset have been randomly selected and passed to the model. The actual and the predicted coordinates for each case have been printed and compared through visualisation. The 'Blue dot' represents the 'predicted value' and the 'red dot' represents the 'actual values'.
 
 _(The near overlapping of the **blue dot** and the **red dot** in each of the 10 cases showcases that the model has been very accurate in making predictions.)_
 
-
+![Alt text](https://github.com/shreyas121sinha/HotPixel_Prediction/blob/main/Model%20evaluation.png)
 
 
 
