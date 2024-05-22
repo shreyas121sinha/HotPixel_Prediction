@@ -1,4 +1,4 @@
-# **Predicting the coordinates of the pixel which has a value of 255 in a 50x50 grayscale image where all other pixels have a value 0.**
+# **Prediction of the coordinates of the pixel which has a value of 255 in a 50x50 grayscale image where all other pixels have a value 0.**
 
 **Supervised Regression using CNN.**
 
@@ -13,7 +13,8 @@ To run the project, the following dependencies may need to be installed (if not 
 The following command can be used:  
 **pip install tensorflow numpy matplotlib scikit-learn**
 
-# Brief Project Overview:  
+# A 
+Brief Project Overview:  
 
 **(1) Dataset Generation:**  
 A synthetic dataset with 50000 training examples has been generated. Considering the fact, that the number of possible positions of the hot pixel can be 2500(50x50), a large dataset with at least 50000 examples becomes necessary.
