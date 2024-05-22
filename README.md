@@ -47,6 +47,8 @@ In the following section, 10 examples from the validation dataset have been rand
 
 _(The near overlapping of the **blue dot** and the **red dot** in each of the 10 cases showcases that the model has been very accurate in making predictions.)_
 
+The visualisation shown below is of one of the ten cases passed to the model for evaluation.
+
 ![Alt text](https://github.com/shreyas121sinha/HotPixel_Prediction/blob/main/Model%20evaluation.png)
 
 
