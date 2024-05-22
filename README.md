@@ -26,7 +26,7 @@ The model consists of three convolutional layers with ReLU activation functions,
 
 The 'Adam optimizer' with a learning rate of '0.01' has been used for training, and the model has been compiled with 'mean squared error loss'.
 
-![Alt text](https://photos.app.goo.gl/zZ1CiYcvVnJBaQ5n8)
+![Alt text](https://drive.google.com/file/d/1TOwYWMOo6nX8oqOzte-u1P8Tn-UoWHC3/view?usp=sharing)
 
 **(4) Model Training:**
 The number of epochs and the batch size have been set to 10 and 256 respectively for the training of the model, to strike a balance between the model accuracy, the model generalization and the training process time. 
