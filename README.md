@@ -4,7 +4,7 @@
 
 # Requirements installation instruction:
 
-To run the project, the following dependencies may need to be installed (if not already installed).  
+The following dependencies may need to be installed (if not already installed).  
 **-TensorFlow  
 -NumPy  
 -MatplotLib  
